@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_impex_map">
+    <sys_impex_map action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <agent/>
+        <apply_defaults>true</apply_defaults>
+        <coalesce/>
+        <condition_script/>
+        <data_option>insert_update</data_option>
+        <data_source/>
+        <description>calendar map for my events</description>
+        <external_names/>
+        <name>icalendar.x_274038_kaicie_pl_myevent</name>
+        <order/>
+        <parent/>
+        <script/>
+        <sys_class_name>sys_impex_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-13 23:10:46</sys_created_on>
+        <sys_id>82545edd4f242300d84d926ca310c732</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icalendar.x_274038_kaicie_pl_myevent</sys_name>
+        <sys_package display_value="Kaicie Play Time" source="x_274038_kaicie_pl">e15ab8454f242300d84d926ca310c788</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kaicie Play Time">e15ab8454f242300d84d926ca310c788</sys_scope>
+        <sys_update_name>sys_impex_map_82545edd4f242300d84d926ca310c732</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-13 23:10:46</sys_updated_on>
+        <table>x_274038_kaicie_pl_myevent</table>
+        <type>icalendar</type>
+    </sys_impex_map>
+</record_update>

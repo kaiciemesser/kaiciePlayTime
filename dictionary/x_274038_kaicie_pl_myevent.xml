@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="myEvent" max_length="40" name="x_274038_kaicie_pl_myevent" type="collection">
+        <element label="End" max_length="40" name="end" type="glide_date_time"/>
+        <element label="location" max_length="40" name="location" type="string"/>
+        <element label="Start" max_length="40" name="start" type="glide_date_time"/>
+    </element>
+</database>
