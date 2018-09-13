@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <homepage display_value="index">46cc384147532100ba13a5554ee49009</homepage>
+        <icon/>
+        <kb_knowledge_base display_value="Knowledge">dfc19531bf2021003f07e2c1ac0739ab</kb_knowledge_base>
+        <kb_knowledge_page display_value="kb_view">db9fcab847101200ba13a5554ee490cf</kb_knowledge_page>
+        <login_page/>
+        <logo/>
+        <notfound_page display_value="pm_404">639bfbf04f602300d84d926ca310c71d</notfound_page>
+        <quick_start_config/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sqanda_knowledge_base display_value="Social QA">5c45a3a0d712120023c84f80de61038b</sqanda_knowledge_base>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-12 22:01:47</sys_created_on>
+        <sys_id>f33bb4854f242300d84d926ca310c732</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facilities</sys_name>
+        <sys_package display_value="Kaicie Play Time" source="x_274038_kaicie_pl">e15ab8454f242300d84d926ca310c788</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kaicie Play Time">e15ab8454f242300d84d926ca310c788</sys_scope>
+        <sys_update_name>sp_portal_f33bb4854f242300d84d926ca310c732</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-12 22:01:47</sys_updated_on>
+        <theme/>
+        <title>Facilities</title>
+        <url_suffix>fac</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=f33bb4854f242300d84d926ca310c732"/>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Meetings and Events" max_length="40" name="x_274038_kaicie_pl_meetings_and_events" type="collection">
+        <element label="End Time" mandatory="true" max_length="40" name="end_time" type="glide_date_time"/>
+        <element label="Start Time" mandatory="true" max_length="40" name="start_time" type="glide_date_time"/>
+    </element>
+</database>
